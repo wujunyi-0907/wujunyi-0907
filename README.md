@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**wujunyi-0907/wujunyi-0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wujunyi0907/wujunyi0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
